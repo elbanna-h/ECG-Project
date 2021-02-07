@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ECG Project</string>
+    <string name="start">Start</string>
+    <string name="save_local">Save Locally</string>
+    <string name="local_history">Local History</string>
+    <string name="save_cloud">Save on Cloud</string>
+    <string name="cloud_history">Read From Cloud</string>
+    <string name="bpm">BPM:</string>
+    <string name="_0_0">0.0</string>
+    <string name="date">Date:</string>
+</resources>
